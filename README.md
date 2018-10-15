@@ -14,7 +14,7 @@ CyclicRotation
 
 OddOccurrencesInArray
 
-Find value that occurs in odd number of elements.
+* Find value that occurs in odd number of elements.
 
 
 ### Lesson 7: Stacks and Queues
