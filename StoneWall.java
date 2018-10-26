@@ -1,3 +1,5 @@
+package main.Codility;
+
 import java.util.Stack;
 
 public class StoneWall {

@@ -17,6 +17,12 @@ OddOccurrencesInArray
 * Find value that occurs in odd number of elements.
 
 
+### Lesson 3: Time Complexity
+FrogJmp
+
+* Count minimal number of jumps from position X to Y.
+
+
 ### Lesson 7: Stacks and Queues
 StoneWall
 
