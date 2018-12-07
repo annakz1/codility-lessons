@@ -18,6 +18,10 @@ OddOccurrencesInArray
 
 
 ### Lesson 3: Time Complexity
+PermMissingElem
+
+* Find the missing element in a given permutation.
+
 FrogJmp
 
 * Count minimal number of jumps from position X to Y.
